@@ -1,6 +1,6 @@
 # IDE_chat_gpt
 run your chat_gpt command on IDE and save results in files automatically. 
-'''Important:You need to add your chat_gpt API in .env file to run the code'''
+Important:You need to add your chat_gpt API in .env file to run the code
 
 
 This Python code takes user input for a task description and sends a request to OpenAI's API to generate code for that task. The API used here is the OpenAI GPT-3 API.
